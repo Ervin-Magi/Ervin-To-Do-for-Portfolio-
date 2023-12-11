@@ -1,7 +1,7 @@
 ## Getting Started
 
 Result:
-![Ervin To Do]([http://url/to/img.png](https://sun9-32.userapi.com/impg/r39TFX_izw0cwyTvPLz46ZxAvsNXB2pcezUlIg/_F95P6BCDNk.jpg?size=1920x858&quality=95&sign=4f0f19ac2222c58776d031eddd257155&type=album])
+![Ervin To Do](https://sun9-32.userapi.com/impg/r39TFX_izw0cwyTvPLz46ZxAvsNXB2pcezUlIg/_F95P6BCDNk.jpg?size=1920x858&quality=95&sign=4f0f19ac2222c58776d031eddd257155&type=album)
 
 First, run the development server:
 
