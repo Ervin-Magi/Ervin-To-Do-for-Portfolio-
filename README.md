@@ -7,13 +7,14 @@ First, run the development server:
 
 ```bash
 npm run dev
-
 ```
 
 ## Create .env file for connecting to MongoDB
 
+```bash
 MONGODB_URI=mongodb+srv://username:password.mongodb.net/crud_db
 API_URL=http://localhost:3000/
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
